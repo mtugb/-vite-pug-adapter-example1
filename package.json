@@ -2,7 +2,7 @@
   "devDependencies": {
     "pug": "^3.0.3",
     "vite": "^7.3.1",
-    "vite-pug-adapter": "^1.0.2"
+    "vite-pug-adapter": "^1.0.3"
   },
   "scripts": {
     "dev": "vite"
